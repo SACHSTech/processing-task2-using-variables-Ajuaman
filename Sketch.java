@@ -35,5 +35,6 @@ public class Sketch extends PApplet {
 		
 	   line(width/2, height/2, (float) (width/3.75), height/2);
 	   line(width/2, height/3, (float) (width/2.69), height/3);
+	   
 	}
 }
